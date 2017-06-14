@@ -1,0 +1,30 @@
+<?php
+$data = array (
+  'exp' => 0,
+  'data' => 
+  array (
+    'uid' => '21',
+    'email' => 'ctmsrijb@126.com',
+    'username' => 'uemp954',
+    'password' => '32fa3c491be52bce06589a42684c2a54',
+    'status' => '0',
+    'emailstatus' => '0',
+    'avatarstatus' => '0',
+    'videophotostatus' => '0',
+    'adminid' => '-1',
+    'groupid' => '4',
+    'groupexpiry' => '0',
+    'extgroupids' => '',
+    'regdate' => '1457074183',
+    'credits' => '6',
+    'notifysound' => '0',
+    'timeoffset' => '9999',
+    'newpm' => '0',
+    'newprompt' => '0',
+    'accessmasks' => '0',
+    'allowadmincp' => '0',
+    'onlyacceptfriendpm' => '0',
+    'conisbind' => '0',
+    'freeze' => '0',
+  ),
+);

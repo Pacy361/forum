@@ -1,0 +1,30 @@
+<?php
+$data = array (
+  'exp' => 0,
+  'data' => 
+  array (
+    'uid' => '10',
+    'email' => 'zyz15291895884@sina.com',
+    'username' => '放牛娃',
+    'password' => 'ee983a6cdb75934ab3d647a2c7b97fbb',
+    'status' => '0',
+    'emailstatus' => '0',
+    'avatarstatus' => '0',
+    'videophotostatus' => '0',
+    'adminid' => '0',
+    'groupid' => '10',
+    'groupexpiry' => '0',
+    'extgroupids' => '',
+    'regdate' => '1455455773',
+    'credits' => '2',
+    'notifysound' => '0',
+    'timeoffset' => '9999',
+    'newpm' => '0',
+    'newprompt' => '0',
+    'accessmasks' => '0',
+    'allowadmincp' => '0',
+    'onlyacceptfriendpm' => '0',
+    'conisbind' => '0',
+    'freeze' => '0',
+  ),
+);

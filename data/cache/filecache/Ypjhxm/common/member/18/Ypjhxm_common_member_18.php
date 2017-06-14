@@ -1,0 +1,30 @@
+<?php
+$data = array (
+  'exp' => 0,
+  'data' => 
+  array (
+    'uid' => '18',
+    'email' => 'jobcc013@163.com',
+    'username' => 'etv4ur',
+    'password' => '478b59db2cbb8e2a4a2eebb980f3417f',
+    'status' => '0',
+    'emailstatus' => '0',
+    'avatarstatus' => '0',
+    'videophotostatus' => '0',
+    'adminid' => '0',
+    'groupid' => '10',
+    'groupexpiry' => '0',
+    'extgroupids' => '',
+    'regdate' => '1456899489',
+    'credits' => '6',
+    'notifysound' => '0',
+    'timeoffset' => '9999',
+    'newpm' => '0',
+    'newprompt' => '0',
+    'accessmasks' => '0',
+    'allowadmincp' => '0',
+    'onlyacceptfriendpm' => '0',
+    'conisbind' => '0',
+    'freeze' => '0',
+  ),
+);

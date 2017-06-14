@@ -1,0 +1,30 @@
+<?php
+$data = array (
+  'exp' => 0,
+  'data' => 
+  array (
+    'uid' => '95',
+    'email' => 'user1@createclouds.cn',
+    'username' => 'manager',
+    'password' => 'cc68f19a9f9cb110559203aa77b4d0e2',
+    'status' => '0',
+    'emailstatus' => '0',
+    'avatarstatus' => '0',
+    'videophotostatus' => '0',
+    'adminid' => '1',
+    'groupid' => '1',
+    'groupexpiry' => '0',
+    'extgroupids' => '',
+    'regdate' => '1492428784',
+    'credits' => '72',
+    'notifysound' => '0',
+    'timeoffset' => '9999',
+    'newpm' => '0',
+    'newprompt' => '0',
+    'accessmasks' => '0',
+    'allowadmincp' => '1',
+    'onlyacceptfriendpm' => '0',
+    'conisbind' => '0',
+    'freeze' => '0',
+  ),
+);
